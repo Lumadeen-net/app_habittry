@@ -1,0 +1,17 @@
+{
+	"appId": "com.habitry.app",
+	"appName": "HABITRY",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"android": {
+		"allowMixed": true,
+		"minSdkVersion": 22
+	},
+	"ios": {
+		"minVersion": "12.0"
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}
